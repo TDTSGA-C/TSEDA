@@ -1,5 +1,0 @@
-add_library(GenOperator GenOperator.cpp classAndVarDefine.cpp config.cpp GenerateAChrom.cpp ../TSEDA.cpp ../TSEDA.h)
-add_library(tools tools.cpp ../TSEDA.cpp ../TSEDA.h)
-add_library(pugixml pugixml.cpp ../TSEDA.cpp ../TSEDA.h)
-add_library(classAndVarDefine classAndVarDefine.cpp ../TSEDA.cpp ../TSEDA.h)
-add_library(config config.cpp ../TSEDA.cpp ../TSEDA.h)
